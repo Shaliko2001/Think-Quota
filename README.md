@@ -34,16 +34,10 @@ A simple and interactive web application that generates random quotes, allows us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/random-quote-generator.git
+git clone https://github.com/Shaliko2001/Think-Quota.git
 ```
 
-2. Navigate to project folder:
-
-```bash
-cd random-quote-generator
-```
-
-3. Open the project:
+2. Open the project:
 
 Just open `index.html` in your browser.
 
